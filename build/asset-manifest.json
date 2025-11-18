@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hashtag-streamgraph/static/css/main.299da7c5.css",
+    "main.js": "/hashtag-streamgraph/static/js/main.85ad1c8a.js",
+    "index.html": "/hashtag-streamgraph/index.html",
+    "main.299da7c5.css.map": "/hashtag-streamgraph/static/css/main.299da7c5.css.map",
+    "main.85ad1c8a.js.map": "/hashtag-streamgraph/static/js/main.85ad1c8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.299da7c5.css",
+    "static/js/main.85ad1c8a.js"
+  ]
+}
